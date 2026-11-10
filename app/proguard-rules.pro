@@ -1,0 +1,1 @@
+# kerak emas (minify oʻchirilgan)
